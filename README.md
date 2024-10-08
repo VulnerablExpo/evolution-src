@@ -1,4 +1,4 @@
 # Evolution Aim-bot Source Code
-    Owned by Bitey
-    Stolen by Expo
+
+        A Dahood exploit script based on silent aim & aimbot.
     
